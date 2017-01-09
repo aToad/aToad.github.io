@@ -1,0 +1,7 @@
+# async
+
+[home](index) > [js](js:index) > [Promise](js:es7-async)
+
+1.Thunk 函数
+
+Thunk 函数是一种只有一个参数的函数，该参数必须是函数，其作用也就在于将一个多参函数转换为单参函数。

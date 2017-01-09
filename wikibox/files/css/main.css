@@ -142,11 +142,12 @@ pre {
 	-webkit-text-size-adjust: none;
 }
 pre code {
-	font-size: 16px;
+	letter-spacing: 1px;
 	display: block;
 	margin: 0;
 	padding: 15px 15px;
 	border-left: 2px solid #666;
+	font: 16px/1.5 sans-serif;
 }
 pre code .code-line {
 	position: relative;
